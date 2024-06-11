@@ -6,7 +6,7 @@ La ministra nos ha pedido un script para automatizar esta tarea, y dado un DNI, 
 
 ## Iteración 1
 
-Cara el JSON usando NodeJS, y muestra por pantalla cada uno de los objetos de este JSON
+Carga el JSON y muestra por 
 
 ## Iteración 2
 
