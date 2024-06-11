@@ -4,4 +4,6 @@ const jsonFile = path.join(__dirname, 'hacienda.json');
 
 const hacienda = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
 
-console.log(hacienda);
+for (person of hacienda) {
+    console.log(person.nombre);
+}
