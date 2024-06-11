@@ -3,102 +3,102 @@
     "nombre": "Juan Pérez",
     "dni": "12345678A",
     "email": "juan.perez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "María García",
     "dni": "87654321B",
     "email": "maria.garcia@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Pedro López",
     "dni": "98765432C",
     "email": "pedro.lopez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Ana Sánchez",
     "dni": "76543210D",
     "email": "ana.sanchez@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Roberto González",
     "dni": "65432109E",
     "email": "roberto.gonzalez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Laura Martínez",
     "dni": "54321098F",
     "email": "laura.martinez@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "David Fernández",
     "dni": "43210987G",
     "email": "david.fernandez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Sandra Ruiz",
     "dni": "32109876H",
     "email": "sandra.ruiz@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Carlos Alonso",
     "dni": "21098765I",
     "email": "carlos.alonso@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Marta Gómez",
     "dni": "10987654J",
     "email": "marta.gomez@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Javier Moreno",
     "dni": "98765432K",
     "email": "javier.moreno@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Patricia Blanco",
     "dni": "87654321L",
     "email": "patricia.blanco@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Luis Rodríguez",
     "dni": "76543210M",
     "email": "luis.rodriguez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Isabel Fernández",
     "dni": "65432109N",
     "email": "isabel.fernandez@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Alejandro López",
     "dni": "54321098O",
     "email": "alejandro.lopez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   },
   {
     "nombre": "Cristina Gómez",
     "dni": "43210987P",
     "email": "cristina.gomez@ejemplo.com",
-    "notificacionesHacienda": false
+    "notificacionesPendientes": false
   },
   {
     "nombre": "Diego Martínez",
     "dni": "32109876Q",
     "email": "diego.martinez@ejemplo.com",
-    "notificacionesHacienda": true
+    "notificacionesPendientes": true
   }
 ]

@@ -9,9 +9,10 @@ let found = false;
 
 let i = 0;
 while (!found && i < hacienda.length) {
-    found = hacienda[i].dni == dni;
+    found = hacienda[i].dni == dni && hacienda[i].notificacionesPendientes;
     if (found) {
-        console.log(`El/la contribuyete ${hacienda[i].nombre} tiene noficaciones pendientes. Se enviará un mail a ${hacienda[i].email}`)
+        const message = `El/la contribuyente ${hacienda[i].nombre} tiene notificaciones pendientes. Se enviará un mail a ${hacienda[i].email}\n`;
+        fs.appendFileSync("notificaciones.txt", message);
     }
     i++;
 }
