@@ -8,7 +8,17 @@ Nombre (nombre original),E-mail del usuario,Duración total (minutos),Invitado
 
 ## Iteración 1
 
-Modifica el fichero app.js para leer el fichero _2abril_participants_94849208356.csv_  . Muestra cada una de las líneas por pantalla
+Modifica el fichero app.js para leer el fichero _2abril_participants_94849208356.csv_ . Primero, muestra por consola el contenido del fichero en _crudo_
+
+Luego,  muestra cada una de las líneas por pantalla.
+
+Ten en cuenta que lo que vas a obtener es un **string** muy largo.
+Debemos dividir ese string por [_saltos de línea_](https://www.lenovo.com/us/en/glossary/newline/?orgRef=https%253A%252F%252Fwww.google.com%252F).
+
+Con la ayuda del método [split](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) , transforma el string en un array donde cada elemento será una línea de texto.
+
+Es buena idea que busques por Internet como hacer esta operación con NodeJS ya que econtrarás varios ejemplos. Usa el que más se adapte a tu problema a resolver.
+
 
 ## Iteración 2
 
@@ -30,7 +40,7 @@ Sigue formateando el mensaje para ahora incluir la fecha en la que ha accedido l
 
 Crea un fichero nuevo donde guardes toda esta información, de nombre **informe.txt**, que debes guardar en el directorio **files**
 
-## DIFÍCIL: Iteración 6
+## DIFÍCIL: Iteración 7
 
 Automatiza este proceso para que el script _itere_ por todo el directorio _files_ y automatices la tarea.
 

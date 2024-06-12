@@ -1,9 +1,7 @@
 const fs = require('fs');
-const path = require('path');
-const jsonFile = path.join(__dirname, 'hacienda.json');
 let dni = "76543210D";
 
-const hacienda = JSON.parse(fs.readFileSync(jsonFile, 'utf8'));
+const hacienda = JSON.parse(fs.readFileSync('./hacienda.json', 'utf8'));
 
 let found = false;
 
