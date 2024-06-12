@@ -46,9 +46,11 @@ Añade ahora también la cantidad de minutos que ha asistido dicha estudiante.
 
 Crea un fichero nuevo donde guardes toda esta información, de nombre **informe.txt**, que debes guardar en el directorio **files**.
 
-Muestra el fichero que ha sido analizado para cada conjunto de alumnos.
-
 ## DIFÍCIL: Iteración 6
 
 Automatiza este proceso para que el script _itere_ por todo el directorio _files_ y automatices la tarea.
 
+Muestra el fichero que ha sido analizado para cada conjunto de alumnos.
+
+
+[Ejemplo del aspecto final del fichero](https://pastebin.com/raw/s6WhD5LC)
