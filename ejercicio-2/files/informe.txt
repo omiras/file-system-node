@@ -1,6 +1,4 @@
 
-Siguiente fichero analizado: files\2abril_participants_94849208356.csv
-
 ﻿aaron sanchez ha venido a clase durante 276 minutos.
 Óscar Miras ha venido a clase durante 246 minutos.
 Esteban Piliponsky ha venido a clase durante 244 minutos.

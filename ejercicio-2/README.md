@@ -46,6 +46,8 @@ Añade ahora también la cantidad de minutos que ha asistido dicha estudiante.
 
 Crea un fichero nuevo donde guardes toda esta información, de nombre **informe.txt**, que debes guardar en el directorio **files**.
 
+![](https://oscarm.tinytake.com/media/1645cfd?filename=1718179068309_TinyTake12-06-2024-09-57-42_638537758687123875.png&sub_type=thumbnail_preview&type=attachment&width=1199&height=543)
+
 ## DIFÍCIL: Iteración 6
 
 Automatiza este proceso para que el script _itere_ por todo el directorio _files_ y automatices la tarea.
