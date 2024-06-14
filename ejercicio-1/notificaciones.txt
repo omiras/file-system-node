@@ -1,0 +1,2 @@
+El/La contribuyente Juan Pérez se enviará un email a juan.perez@ejemplo.com
+El/La contribuyente Pedro López se enviará un email a pedro.lopez@ejemplo.com
