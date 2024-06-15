@@ -5,5 +5,8 @@ let dni = "";
 /** Leer README */
 
 fs.readFile("./hacienda.json", "utf-8", (err, data) =>{
-    console.log(data)
+    const parsedData = JSON.parse(data);
+    const namesArr = parsedData.forEach(person => {
+        console.log(person.nombre)
+    });
 })
