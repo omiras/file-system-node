@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-let dni = "76543210D";
+let dni = "65432109E";
 
 /** Leer README */
 
@@ -20,8 +20,8 @@ while (!found && i < hacienda.length) {
     found = hacienda[i].dni == dni && hacienda[i].notificacionesPendientes;
     if (found) {
         const message = `El/la contribuyente ${hacienda[i].nombre} tiene notificaciones pendientes. Se enviará un mail a ${hacienda[i].email}\n`;
-        // fs.appendFileSync("notificaciones.txt", message);
         console.log(message)
+        fs.appendFileSync("notificaciones.txt", message);
     }
     i++;
 }
